@@ -1,6 +1,3 @@
-# 3dRendering
-A 3d rendering demo for my school project
+# 3D Rendering Demo
 
-This uses advanced 3d rending principles to show a movable 3d cube in browser
-
-You can view it at this link: https://githubemploy.github.io/3dRendering/
+3D rendering demonstration built for a school computer graphics project exploring WebGL fundamentals.
